@@ -26,12 +26,12 @@ Carl Boettiger on arXiv.
 in the R journal
 -   R packages for auto-generating Dockerfiles for projects
     -   [containerit](http://o2r.info/containerit/)
-    -   [liftr](https://nanx.me/liftr/) for R Markdown Files)
+    -   [liftr](https://nanx.me/liftr/) for R Markdown Files
     -   [rize](https://github.com/cole-brokamp/rize) for Shiny Apps
-    -   [dockerfiler](https://github.com/ColinFay/dockerfiler) for editing/modifying Dockerfiles.
--   [Binder](https://mybinder.org/) for hosting interactive RStudio environments for GitHub repos with Dockerfiles
+    -   [dockerfiler](https://github.com/ColinFay/dockerfiler) for editing/modifying Dockerfiles
+-   [Binder](https://mybinder.org/) for (free!) hosting of interactive RStudio/Jupyter environments for public GitHub repos
 -   R Packages that call Docker containers
-    - [RSelenium](https://github.com/ropensci/RSelenium) and [splashr](https://github.com/hrbrmstr/splashr) for web scraping. (see `ex-3-splash/`)
+    - [RSelenium](https://github.com/ropensci/RSelenium) and [splashr](https://github.com/hrbrmstr/splashr) for web scraping (see `ex-3-splash/`)
     - [osrm](https://github.com/rCarto/osrm) for calculating travel paths and time with the Open Source Routing Machine and OpenStreetMap
     - [H2O](https://h2o-release.s3.amazonaws.com/h2o/rel-turing/1/docs-website/h2o-docs/docker.html)
 -   R services that you might deploy with Docker
