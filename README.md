@@ -7,6 +7,7 @@ presented at the [New York Open Statistical Programming Meetup](https://nyhackr.
 on 2018-07-11. 
 
 - Slides ([PDF](Noam_Ross_DockerForTheUseR_nyhackr_2018-07-10.pdf))
+- Video ([YouTube](https://www.youtube.com/watch?v=803oZI5dvAU), audio is kinda rough)
 - Code for each of the examples are in the `ex-*/` directories.
 
 ## Links to topics and resources dicussed in the talk (and more!)
